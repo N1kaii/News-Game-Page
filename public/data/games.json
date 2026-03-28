@@ -5,10 +5,10 @@
         "developer": "CD Projekt Red",
         "gnere": "Action-RPG, открытый мир",
         "discription": "Cyberpunk 2077 переносит игроков в Найт-Сити - огромный футуристический мегаполис, где власть принадлежит корпорациям, а технологии стали частью человеческого тела. В центре сюжета - наёмник V и экспериментальный имплант, содержащий личность рок-музыканта Джонни Сильверхенда. Игра предлагает полностью открытый мир, вариативное прохождение миссий, глубокую систему прокачки и киберимпланты, которые меняют стиль боя. Здесь можно проходить задания скрытно, через взлом, или устраивать масштабные перестрелки. Атмосфера неонового киберпанка, проработанные персонажи и несколько вариантов концовок делают историю по-настоящему кинематографичной.",
-        "image1" : "./data/images/Cyberpunk1.jpg",
-        "image2" : "./data/images/Cyberpunk2.jpg",
-        "image3" : "./data/images/Cyberpunk3.jpg",
-        "image4" : "./data/images/Cyberpunk4.jpg"
+        "image1" : "https://www.gameaccessibilitynexus.com/wp-content/uploads/2020/12/D7P_yLdX4AAvJWO.jpg",
+        "image2" : "https://www.dsogaming.com/wp-content/uploads/2020/08/Cyberpunk-2077-new-screenshots-August-2020-1.jpg",
+        "image3" : "https://gamingbolt.com/wp-content/uploads/2020/06/Cyberpunk-2077_01.jpg",
+        "image4" : "https://cdn-l-mkt.cdprojektred.com/image/Cyberpunk2077_The_Parade_RGB_EN_s8hgb9tscya1bw2e.jpg"
         
     },
     {
@@ -17,10 +17,10 @@
         "developer": "4A Games",
         "gnere": "Action-RPG, постапокалипсис",
         "discription": "Metro 2033 - атмосферный постапокалиптический шутер, действие которого разворачивается в московском метро после ядерной катастрофы. Люди выживают на станциях, объединяясь в разные фракции, а в туннелях скрываются мутанты и опасные аномалии. Игра делает ставку на напряжённую атмосферу, реализм и нехватку ресурсов. Патроны используются как валюта, оружие часто самодельное, а выход на поверхность требует противогаза из-за радиации. Это не просто шутер, а мрачная история о выживании, страхе и выборе, который влияет на финал.",
-        "image1" : "./data/images/Metro20331.png",
-        "image2" : "./data/images/Metro20332.jpg",
-        "image3" : "./data/images/Metro20333.png",
-        "image4" : "./data/images/Metro20334.jpg"
+        "image1" : "https://cdn1.epicgames.com/offer/petunia/metro_2033_epic_tile_2560x1440_2560x1440-c488c769949603c48c185a6f0800e9ba",
+        "image2" : "https://www.dsogaming.com/wp-content/uploads/2022/11/Metro-2033-Legacy-Mod-screenshots-1.jpg",
+        "image3" : "https://live.staticflickr.com/4040/4503062342_bcc2770bd5_b.jpg",
+        "image4" : "https://www.gamegrin.com/assets/games/metro-2033-redux/screenshots/_resampled/croppedimage1201631-metro-2033-redux-screenshot-4.jpg"
     },
    {
        "title": "R.E.P.O.",
@@ -28,10 +28,10 @@
        "developer": "Semiwork",
        "gnere": "Хоррор, кооператив",
        "discription": "Группа наёмников отправляется в опасные и заброшенные зоны, чтобы добывать ценные предметы и выносить их живыми. Сеттинг строится на тёмных, замкнутых локациях с ограниченным обзором и постоянным напряжением. Игроки сталкиваются с неизвестными угрозами, которые могут появиться в любой момент. Основу геймплея составляет кооператив: важно распределять роли, прикрывать друг друга и быстро принимать решения. Физика предметов играет ключевую роль - любой шум или неосторожное движение может привести к провалу миссии, а каждая вылазка ощущается как рискованная операция.",
-       "image1" : "./data/images/REPO1.jpg",
-        "image2" : "./data/images/REPO2.jpg",
-        "image3" : "./data/images/REPO3.jpg",
-        "image4" : "./data/images/REPO4.jpg"
+       "image1" : "https://i.ytimg.com/vi/QhzkGgNoGUE/maxresdefault.jpg",
+        "image2" : "https://skillbox.ru/upload/setka_images/13391524032025_accf102caaa970ce65d217b9ae9a8e9a57caa67c.jpg",
+        "image3" : "https://img.championat.com/i/q/r/1742247544962094712.jpg",
+        "image4" : "https://blog.gamersbase.store/wp-content/uploads/2025/03/2.jpg"
     },
    {
        "title": "Clair Obscur: Expedition 33",
@@ -39,10 +39,10 @@
        "developer": "Sandfall Interactive",
        "gnere": "JRPG, пошаговая RPG",
        "discription": "В мире существует аномалия, которая ежегодно стирает людей определённого возраста, и очередная экспедиция отправляется, чтобы остановить этот процесс. Сеттинг сочетает мрачную атмосферу и художественный стиль с необычными пейзажами и символикой. История постепенно раскрывается через диалоги, сцены и исследование локаций, поднимая темы времени и неизбежности. Боевая система пошаговая, но требует активного участия - тайминги атак, уклонений и парирований влияют на исход боя. Дополняется это развитием персонажей, выбором навыков и возможностью выстраивать тактику под разные ситуации.",
-       "image1" : "./data/images/Expedition1.jpg",
-        "image2" : "./data/images/Expedition2.png",
-        "image3" : "./data/images/Expedition3.jpg",
-        "image4" : "./data/images/Expedition4.jpg"
+       "image1" : "https://images.cybersport.ru/images/as-is/plain/40/40fd63e4-75f5-4b71-9387-142fbf13b1c5.webp@jpg",
+        "image2" : "https://cdn2.unrealengine.com/clair-obscur-expedition-33-guide-combat-3839x2159-d89948a726e7.png",
+        "image3" : "https://sm.pcmag.com/t/pcmag_me/review/c/clair-obsc/clair-obscur-expedition-33_3sac.1920.png",
+        "image4" : "https://imag.malavida.com/mvimgbig/download-fs/clair-obscur-expedition-33-40401-1.jpg"
     },
    {
        "title": "The Witcher 3: Wild Hunt",
@@ -50,10 +50,10 @@
        "developer": "CD Projekt Red",
        "gnere": "Action-RPG, открытый мир",
        "discription": "События разворачиваются в фэнтезийном мире, охваченном войной и политическими конфликтами, где ведьмак Геральт ищет Цири, за которой следует Дикая Охота. Сеттинг включает разнообразные регионы с собственной атмосферой - деревни, города, болота и дикие земли. История подаётся через основные и побочные задания, многие из которых имеют последствия и меняют отношение персонажей. Геймплей строится на боях с использованием мечей, знаков и зелий, а также подготовке к охоте на монстров. Исследование мира поощряется за счёт скрытых заданий, контрактов и случайных событий.",
-       "image1" : "./data/images/Witcher1.jpg",
-        "image2" : "./data/images/Witcher2.jpg",
-        "image3" : "./data/images/Witcher3.jpg",
-        "image4" : "./data/images/Witcher4.jpg"
+       "image1" : "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f",
+        "image2" : "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2015/04/Witcher3-3.jpg",
+        "image3" : "https://www.xtgamer.de/wp-content/uploads/The-Witcher-3_-Wild-Hunt-Complete-Edition_03_RT.jpg",
+        "image4" : "https://blog.mysticwaffle.com/articles/witcher-3-screenshots/gallery/023-witcher-3-geralt-vs-the-beast-fo-white-orchard.jpg"
     },
    {
        "title": "Cuphead",
@@ -61,10 +61,10 @@
        "developer": "Studio MDHR",
        "gnere": "Платформер, run and gun",
        "discription": "После неудачной сделки героям приходится возвращать долг, сражаясь с различными противниками. Сеттинг выполнен в стиле старых мультфильмов с яркими, детализированными сценами и анимацией. Основной упор сделан на боях с боссами, где каждая встреча включает несколько фаз с меняющимися атаками. Игровой процесс требует точного управления и быстрой реакции, а также изучения поведения врагов. Дополнительно можно менять оружие и способности, что даёт разные подходы к прохождению и позволяет подстроиться под сложные бои.",
-       "image1" : "./data/images/Cuphead1.jpg",
-        "image2" : "./data/images/Cuphead2.jpg",
-        "image3" : "./data/images/Cuphead3.jpg",
-        "image4" : "./data/images/Cuphead4.png"
+       "image1" : "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000016330/d94d2186ef03c930392253c83c84af0c73b7e57cd902a526b09b4155a25930fe",
+        "image2" : "https://nintendoeverything.com/wp-content/uploads/NintendoSwitch_Cuphead_Screenshot_5.jpg",
+        "image3" : "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2017/08/Cuphead_Clown.jpg?w=1600&h=900&fit=crop",
+        "image4" : "https://cdn.mobygames.com/screenshots/16289663-cuphead-windows-title-screen.png"
     },
    {
        "title": "BioShock Infinite",
@@ -72,10 +72,10 @@
        "developer": "Irrational Games",
        "gnere": "Шутер от первого лица, сюжетный",
        "discription": "История начинается в летающем городе Колумбия, куда главный герой отправляется, чтобы найти девушку по имени Элизабет. Сеттинг сочетает изолированное общество, идеологию и технологическое развитие, создавая уникальную атмосферу. По мере прохождения раскрываются внутренние конфликты города и его устройство. Геймплей включает динамичные перестрелки, использование способностей и перемещение по уровням с помощью крюков. Элизабет активно помогает в бою, давая ресурсы и взаимодействуя с окружением, что влияет на темп и тактику.",
-       "image1" : "./data/images/Bioshock1.jpg",
-        "image2" : "./data/images/Bioshock2.jpg",
-        "image3" : "./data/images/Bioshock3.jpg",
-        "image4" : "./data/images/Bioshock4.jpg"
+       "image1" : "https://cdn1.epicgames.com/offer/df2da503f2074f078f8090da3c27ec47/EGS_BioShockInfiniteCompleteEdition_MassMediaGames_S1_2560x1440-bf29199cfe7a76f62965f582571024f6",
+        "image2" : "https://images.steamusercontent.com/ugc/12740539483923758871/CE71EDB1F6C838861DAF7441075816CCA52BCB0D/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+        "image3" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/ss_37f25110f8d76335ddbc29a381bc6961e209acf6.jpg",
+        "image4" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/ss_4616da02724c2beaa8afc74a501929d27a65542a.jpg"
     },
    {
        "title": "Hollow Knight",
@@ -83,10 +83,10 @@
        "developer": "Team Cherry",
        "gnere": "Метроидвания, приключение",
        "discription": "Действие происходит в заброшенном подземном королевстве, полном тайн и разрушенных локаций. Сеттинг мрачный, с акцентом на атмосферу одиночества и исследования. История подаётся через окружение, врагов и редкие диалоги, без прямого объяснения. Игровой процесс строится на исследовании связанных между собой зон, сражениях и поиске улучшений. По мере прохождения открываются новые способности, позволяющие возвращаться в ранее закрытые области и находить скрытый контент.",
-       "image1" : "./data/images/Hollow1.jpg",
-        "image2" : "./data/images/Hollow2.jpg",
-        "image3" : "./data/images/Hollow3.jpg",
-        "image4" : "./data/images/Hollow4.jpg"
+       "image1" : "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51",
+        "image2" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.jpg",
+        "image3" : "https://images.steamusercontent.com/ugc/915797425504675809/7C959D30A592230BF4C351B02A6524FF38EB5990/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "image4" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/256674834/movie_full.jpg?t=1480808643"
     },
    {
        "title": "Atomic Heart",
@@ -94,10 +94,10 @@
        "developer": "Mundfish",
        "gnere": "Шутер от первого лица, экшен",
        "discription": "События происходят в альтернативной версии СССР, где технологический прогресс привёл к созданию роботов, вышедших из-под контроля. Главный герой расследует инцидент на научном комплексе, постепенно раскрывая причины катастрофы. Сеттинг сочетает научную фантастику и узнаваемую архитектуру с элементами ретрофутуризма. Геймплей включает стрельбу, ближний бой и использование способностей перчатки, позволяющей взаимодействовать с врагами и окружением. Также присутствуют головоломки, исследование и система улучшений оружия.",
-       "image1" : "./data/images/Atomic1.jpg",
-        "image2" : "./data/images/Atomic2.jpg",
-        "image3" : "./data/images/Atomic3.jpg",
-        "image4" : "./data/images/Atomic4.jpg"
+       "image1" : "https://static.wikia.nocookie.net/character-power/images/1/11/Atomic_Heart.jpg/revision/latest?cb=20230325175517&path-prefix=ru",
+        "image2" : "https://img.championat.com/news/big/h/o/obzor-igry-atomic-heart_16768978251455257086.jpg",
+        "image3" : "https://img.playstationtrophies.org/images/monthly_2024_12/screenshots/7354/atomicheart_dlc3_gameplay_screenshot_07_d56e537b-3d94-4f26-b934-03fb41559850.jpg",
+        "image4" : "https://www.newgamenetwork.com/app/uploads/2025/10/atomicheart_09_3.jpg"
     },
    {
        "title": "Portal",
@@ -105,10 +105,10 @@
        "developer": "Valve",
        "gnere": "Головоломка, приключение",
        "discription": "Действие происходит внутри научного комплекса, где проводится серия тестов с использованием портальной технологии. Сеттинг минималистичный, с акцентом на изоляцию и контроль со стороны системы. История раскрывается через окружение и поведение искусственного интеллекта. Игровой процесс строится на решении головоломок с использованием порталов, где важно учитывать физику движения, скорость и расположение объектов. Уровни постепенно усложняются, добавляя новые механики и требуя более точного расчёта действий.",
-       "image1" : "./data/images/Portal1.jpg",
-        "image2" : "./data/images/Portal2.jpg",
-        "image3" : "./data/images/Portal3.jpg",
-        "image4" : "./data/images/Portal4.jpg"
+       "image1" : "https://gfn.ru/media/images/wide_art_image-portal-5366016b.original.jpg",
+        "image2" : "https://thegemsbok.com/wp-content/uploads/2016/06/Portal-screenshot-with-lots-of-portal-surface-area.jpg",
+        "image3" : "https://media.moddb.com/images/mods/1/12/11530/screenshot02.jpg",
+        "image4" : ".https://lh5.googleusercontent.com/proxy/jK5jH-g4LoWaS7d5Kx1c07IqP09ktG6NyDhj7as11DkF60JcO88EJaV61QkQKjxTds4OVhcwjfawci0XgoHcTIVazjVv18TZyF_zLj2jUMlTBeZOo_8UB5mgBAjpFZj06w"
     }
 
 ]
