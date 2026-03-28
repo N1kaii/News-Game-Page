@@ -1,10 +1,10 @@
 import "./GameCard.css";
 
 export default function GameCard({ game }) {
-  const img1 = `/data/images/${game.image1}`
-  const img2 = `/data/images/${game.image2}`
-  const img3 = `/data/images/${game.image3}`
-  const img4 = `/data/images/${game.image4}`
+  const img1 = game.image1
+  const img2 = game.image2
+  const img3 = game.image3
+  const img4 = game.image4
 
   return (
     <div className="gameCard">
