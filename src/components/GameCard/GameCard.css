@@ -1,0 +1,49 @@
+.gameCard {
+  width: 100%;
+  background: #141a23;
+  border: 1px solid rgba(255,255,255,.15);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.mainImg {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+.gameContent {
+  padding: 14px;
+}
+
+.subText {
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+
+.info {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.desc {
+  font-size: 17px;
+  font-weight: 450;
+  margin-bottom: 12px;
+}
+
+.shotsTitle {
+  font-size: 14px;
+}
+
+.shotImg {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.title{
+  font-size: 25px;
+}
